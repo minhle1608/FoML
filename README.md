@@ -1,5 +1,3 @@
-##  Quick Start
-
 Follow these steps to set up and run the application:
 
 ### Step 1: Install Dependencies
